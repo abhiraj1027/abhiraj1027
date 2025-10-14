@@ -17,7 +17,7 @@
 - 💡 Passionate about **Web Development, Java, and Machine Learning**  
 - 🧠 Love solving problems on **LeetCode** and exploring modern tech  
 - 📫 Reach me at **abhirajchauhan972599@gmail.com**  
-- ⚡ Fun fact: I enjoy building projects that make life easier and smarter  
+- ⚡ Fun fact: I enjoy transforming my imaginations into cool web animations  
 
 ---
 
