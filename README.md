@@ -2,10 +2,13 @@
 <h3 align="center">💻 Documenting My Coding Journey | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/abhiraj_code" target="blank">
-    <img src="https://img.shields.io/twitter/follow/abhiraj_code?logo=twitter&style=for-the-badge&color=358FEF" alt="abhiraj_code" />
+  <a href="https://twitter.com/abhiraj_code" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/abhiraj_code?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=#222" alt="abhiraj_code" />
   </a>
 </p>
+
+
+
 
 ---
 
