@@ -7,69 +7,46 @@
   </a>
 </p>
 
-
-
-
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **MERN Stack**  
-- 💡 Passionate about **Web Development, Java, and Machine Learning**  
-- 🧠 Love solving problems on **LeetCode** and exploring modern tech  
-- 📫 Reach me at **abhirajchauhan972599@gmail.com**  
-- ⚡ Fun fact: I enjoy transforming my imaginations into cool web animations  
+- 🌱 Currently diving deep into the **MERN Stack** and building real-world projects  
+- 💡 Passionate about **Web Development, **Web Animations, with a problem-solving mindset  
+- 🧠 Enjoy tackling challenges on **LeetCode** and staying updated with the latest tech trends  
+- 📫 Feel free to reach out via email: **abhirajchauhan972599@gmail.com**  
+- ⚡ Fun fact: I enjoy turning my imaginations into cool web animations  
 
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://twitter.com/abhiraj_code" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhiraj_code" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/abhirajchauhan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhirajchauhan" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools  
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <a href="https://twitter.com/abhiraj_code" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  <a href="https://leetcode.com/abhirajchauhan/" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 🛠️ Skills & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+---
+
+### 📊 GitHub Highlights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiraj1027&show_icons=true&theme=tokyonight&title_color=358FEF&icon_color=358FEF" alt="Abhiraj's GitHub stats" />
 </p>
@@ -79,7 +56,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&layout=compact&theme=tokyonight&title_color=358FEF" alt="Top Languages" />
+  <!-- Custom top languages image without Jupyter Notebook (you can generate this by filtering your repos) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&exclude_repo=jupyter-notebook-repo-name&layout=compact&theme=tokyonight&title_color=358FEF" alt="Top Languages" />
 </p>
 
 ---
