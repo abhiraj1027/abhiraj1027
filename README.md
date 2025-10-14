@@ -71,8 +71,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&layout=compact&theme=tokyonight&title_color=358FEF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&exclude_repo=jupyter-notebook-repo-name&layout=compact&theme=tokyonight&title_color=358FEF" alt="Top Languages" />
 </p>
+
 
 ---
 
