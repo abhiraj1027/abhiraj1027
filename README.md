@@ -28,7 +28,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - 🌱 Currently diving deep into the **MERN Stack** and building real-world projects  
 - 💡 Passionate about **Web Development & Web Animations**, with a problem-solving mindset  
 - 🧠 Enjoy tackling challenges on **LeetCode** and staying updated with latest tech trends  
@@ -36,7 +36,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://twitter.com/abhiraj_code" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Highlights
+### GitHub Highlights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiraj1027&show_icons=true&theme=tokyonight&title_color=358FEF&icon_color=358FEF" alt="GitHub Stats" />
 </p>
@@ -80,7 +80,7 @@
 
 ---
 
-### ✨ Quote I Live By
+###  Quote I Live By
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKsQZgkNlM6x0AO/giphy.gif" width="50" />  
   “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
