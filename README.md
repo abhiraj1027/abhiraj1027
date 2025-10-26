@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white&color=CC6699" alt="SCSS" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/EJS-DD0031?style=flat&logo=ejs&logoColor=white&color=A91F4F" alt="EJS" />
    <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white&color=88CE02" alt="GSAP" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black&color=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&color=ED8B00" alt="Java" />
