@@ -50,35 +50,37 @@
 
 ###  Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/EJS-F7DF1E?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&color=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white&color=CC6699" alt="SCSS" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&color=06B6D4" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript" />
+   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white&color=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black&color=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&color=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&color=000000" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&color=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&color=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white&color=000000" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&color=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white&color=F5792A" alt="Blender" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python" />
 </p>
+
 
 ---
 
 ### GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiraj1027&show_icons=true&theme=tokyonight&title_color=358FEF&icon_color=358FEF" alt="GitHub Stats" />
-</p>
+
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&exclude_repo=jupyter-notebook-repo-name&layout=compact&theme=tokyonight&title_color=358FEF" alt="Top Languages" />
+  <!-- Left: Top Languages detailed card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&layout=compact&theme=tokyonight&title_color=358FEF&bg_color=0d1117&hide_border=true" alt="Top Languages" width="49%" />
+  <!-- Right: GitHub Stats detailed card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiraj1027&show_icons=true&theme=tokyonight&title_color=358FEF&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
 
